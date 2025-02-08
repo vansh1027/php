@@ -15,6 +15,6 @@
     $x = 10;
     echo "$x-- is = " . ($x--) . "<br>";// Outputs: 10
     echo "Now x is = " . $x;   // Outputs: 9
-    echo "<br>This code is executed by Kamal Mittal!";
+    echo "<br>This code is executed by vansh thakur,2220100302";
 
 ?>
