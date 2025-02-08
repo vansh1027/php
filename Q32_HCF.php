@@ -9,5 +9,5 @@ while ($num2 != 0) {
 }
 
 echo "The HCF is: $num1\n";
-echo "This code is executed by Kamal Mittal!";
+echo "This code is executed by vansh thakur,2220100302";
 ?>
