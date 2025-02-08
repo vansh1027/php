@@ -4,5 +4,5 @@
 	//echo greeting; // GREETING and greeting both are diferent
 	define ("GREETING", "Hello PHP!");
 	echo GREETING;
-	echo "This code is executed by Kamal Mittal!";
+	echo "This code is executed by vansh thakur,2220100302";
 ?>
