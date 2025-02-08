@@ -10,5 +10,5 @@ for ($i = $rows; $i >= 1; $i--) {
     echo "\n";
 }
 
-echo "This code is executed by Kamal Mittal!";
+echo "This code is executed by vansh thakur,2220100302";
 ?>
