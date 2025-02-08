@@ -13,5 +13,5 @@ for ($i = 0; $i < $n; $i++) {
     $second = $next;
 }
 
-echo "\nThis code is executed by Kamal Mittal!";
+echo "\nThis code is executed by vansh thakur,2220100302";
 ?>
