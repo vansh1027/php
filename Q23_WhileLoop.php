@@ -6,5 +6,5 @@
 		echo $i. "<br>";
 		$i++;
 	}
-	echo "<br> This program is executed by Kamal Mittal!";
+	echo "<br> This program is executed by vansh thakur,2220100302";
 ?>
